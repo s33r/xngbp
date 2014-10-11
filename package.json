@@ -1,16 +1,16 @@
 {
-  "author": "Josh David Miller",
-  "name": "ngbp",
+  "contributors": ["Josh David Miller", "Aaron C Willows"],
+  "name": "xngbp",
   "version": "0.3.2",
-  "homepage": "https://github.com/ngbp/ngbp",
+  "homepage": "https://github.com/s33r/xngbp",
   "licenses": {
     "type": "MIT",
-    "url": "https://raw.github.com/ngbp/ngbp/master/LICENSE"
+    "url": "https://raw.github.com/s33r/xngbp/master/LICENSE"
   },
-  "bugs": "https://github.com/ngbp/ngbp/issues",
+  "bugs": "https://github.com/s33r/xngbp/issues",
   "repository": {
     "type": "git",
-    "url": "git@github.com:ngbp/ngbp.git"
+    "url": "git@github.com:xngbp.git"
   },
   "dependencies": {},
   "devDependencies": {
